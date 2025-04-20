@@ -6,12 +6,13 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: process.env.REACT_APP_PUBLIC_FIREBASE_API_KEY, 
-  authDomain: process.env.REACT_APP_PUBLIC_FIREBASE_AUTH_DOMAIN,
-  projectId: process.env,
-  storageBucket: process.env.REACT_APP_PUBLIC_FIREBASE_STORAGE_BUCKET,
-  messagingSenderId: process.env.REACT_APP_PUBLIC_FIREBASE_MESSAGING_SENDER_ID,
-  appId: process.env.REACT_APP_PUBLIC_FIREBASE_APP_ID,
+  apiKey: "AIzaSyCWT1c6e4b53wJSz-4wX3VHw_se9-XyplY",
+  authDomain: "mooovies-project.firebaseapp.com",
+  projectId: "mooovies-project",
+  storageBucket: "mooovies-project.firebasestorage.app",
+  messagingSenderId: "1074457400639",
+  appId: "1:1074457400639:web:9203c6e6141ac6a67bef8a",
+  measurementId: "G-0F40QPVPSY"
 };
 
 // Initialize Firebase
