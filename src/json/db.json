@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "A Beautiful Mind",
+    "cover": "https://m.media-amazon.com/images/M/MV5BNzljZTk5ZDgtZTQ1Zi00NTM4LThlOGUtZDk2MGM4NDQ4NWQyXkEyXkFqcGc@._V1_.jpg",
+    "linkId": "EajIlG_OCvw?si=ss0tDND-dd4IAdiQ"
+  },
+  {
+    "id": 2,
+    "title": "Captain Fantastic",
+    "cover": "https://m.media-amazon.com/images/M/MV5BMjE5OTM0OTY5NF5BMl5BanBnXkFtZTgwMDcxOTQ3ODE@._V1_FMjpg_UX1000_.jpg",
+    "linkId": "w5jeBvjcJe4?si=BZAsaR1jPcRDjTbS"
+  },
+  {
+    "id": 3,
+    "title": "Donnie Darko",
+    "cover": "https://m.media-amazon.com/images/M/MV5BMWE3NTYzZmEtM2U5MS00MDZhLTk2ZTQtZTgzNjg0ZGQ5ZjM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "linkId": "bzLn8sYeM9o?si=4-Ka_2tVQ_Aim8Ag"
+  },
+  {
+    "id": 4,
+    "title": "Everest",
+    "cover": "https://m.media-amazon.com/images/M/MV5BNDAzOTYxMTctY2ViNi00NDI3LTgwMGItY2FhN2JjZWE5MjRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "linkId": "79Q2rrQlPW4?si=KiU6NIyzCbpgkSay"
+  },
+  {
+    "id": 5,
+    "title": "I'm Still Here",
+    "cover": "https://hota.com.au/generated/1920w-2-3/ish-launch-a4poster-1920px-jpg.jpg?1738810190",
+    "linkId": "_NzqP0jmk3o?si=aaJXCws_TSgzftAI"
+  },
+  {
+    "id": 6,
+    "title": "Interstellar",
+    "cover": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "linkId": "zSWdZVtXT7E?si=AZ1Q2acuVDoAYJJ4"
+  },
+  {
+    "id": 7,
+    "title": "Midsommar",
+    "cover": "https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_.jpg",
+    "linkId": "1Vnghdsjmd0?si=Jvn3vlhk-1Kjmxaq"
+  },
+  {
+    "id": 8,
+    "title": "Mother!",
+    "cover": "https://m.media-amazon.com/images/M/MV5BMjE3MTU4MjA0OV5BMl5BanBnXkFtZTgwNDczNTIzMjI@._V1_.jpg",
+    "linkId": "XpICoc65uh0?si=FLpT3G3QdyQ3ExpG"
+  },
+  {
+    "id": 9,
+    "title": "Parasite",
+    "cover": "https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "linkId": "SEUXfv87Wpk?si=oAQw-5jVqDrR1P4i"
+  },
+  {
+    "id": 10,
+    "title": "Signs",
+    "cover": "https://m.media-amazon.com/images/M/MV5BMTUwMTkzOTk0MF5BMl5BanBnXkFtZTYwNzc1MDg5._V1_.jpg",
+    "linkId": "dUw26F0WfLg?si=asaU5qrkQo65yTW7"
+  },
+  {
+    "id": 11,
+    "title": "The Green Mile",
+    "cover": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_FMjpg_UX1000_.jpg",
+    "linkId": "Ki4haFrqSrw?si=UVfh-skAuAX-Qd5v"
+  },
+  {
+    "id": 12,
+    "title": "The Iron Giant",
+    "cover": "https://m.media-amazon.com/images/M/MV5BODM4ZjZjMGEtYmFiMy00MThjLWIzZjUtMDU0ODg1NTI2MzIwXkEyXkFqcGc@._V1_.jpg",
+    "linkId": "obLtyj8hfFk?si=rr1YGAhZhPuFz04G"
+  },
+  {
+    "id": 13,
+    "title": "The Shawshank Redemption",
+    "cover": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "linkId": "NmzuHjWmXOc?si=cBB4EViLs5J1bBm9"
+  },
+  {
+    "id": 14,
+    "title": "The Sixth Sense",
+    "cover": "https://m.media-amazon.com/images/M/MV5BZWQ2OTY0M2UtMTQxNC00MmIzLTllNDQtNDQ0MTQyYzI2M2ZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "linkId": "3-ZP95NF_Wk?si=JxjONiwKmvy6CihU"
+  },
+  {
+    "id": 15,
+    "title": "The Visit",
+    "cover": "https://m.media-amazon.com/images/M/MV5BMTg3OTM2OTc5MV5BMl5BanBnXkFtZTgwMjMxNDM0NTE@._V1_.jpg",
+    "linkId": "SdQxos297xw?si=ERZAHvM_oINqWCdC"
+  },
+  {
+    "id": 16,
+    "title": "The Intouchables",
+    "cover": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_FMjpg_UX1000_.jpg",
+    "linkId": "cXu2MhWYUuE?si=sCn2Rmp1zb0D3V2-"
+  }
+]

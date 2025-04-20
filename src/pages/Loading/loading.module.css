@@ -1,0 +1,47 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: black;
+    color: white;
+  }
+  
+  .content {
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    letter-spacing: 0.1em;
+  }
+  
+  @media (min-width: 768px) {
+    .title {
+      font-size: 4rem;
+    }
+  }
+  
+  .loadingText {
+    font-size: 1.25rem;
+    font-weight: 500;
+    animation: pulse 1.5s infinite;
+  }
+  
+  @media (min-width: 768px) {
+    .loadingText {
+      font-size: 2rem;
+    }
+  }
+  
+  @keyframes pulse {
+    0%, 100% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0.5;
+    }
+  }
+  
