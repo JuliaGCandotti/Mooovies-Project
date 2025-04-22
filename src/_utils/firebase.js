@@ -6,13 +6,12 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: AIzaSyCWT1c6e4b53wJSz-4wX3VHw_se9-XyplY,
-  authDomain: mooovies-project.firebaseapp.com,
-  projectId: mooovies-project,
-  storageBucket: mooovies-project.firebasestorage.app,
-  messagingSenderId: 1074457400639,
-  appId: 1:1074457400639:web:9203c6e6141ac6a67bef8a,
-  measurementId: G-0F40QPVPSY
+  apiKey: "AIzaSyA_OsN4PucR-5BLmVeg9rO1Q9orYAVsmqI",
+  authDomain: "mooovies-dbd43.firebaseapp.com",
+  projectId: "mooovies-dbd43",
+  storageBucket: "mooovies-dbd43.firebasestorage.app",
+  messagingSenderId: "550309694226",
+  appId: "1:550309694226:web:d6cdeec100aa139b33c1cb"
 };
 
 // Initialize Firebase
